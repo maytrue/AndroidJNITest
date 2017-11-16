@@ -54,3 +54,7 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# JNI Libs
+app/src/main/libs/armeabi-v7a
+app/src/main/obj/
